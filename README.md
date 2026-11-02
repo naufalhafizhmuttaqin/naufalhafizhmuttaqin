@@ -11,6 +11,3 @@ Hi, I'm Naufal Hafizh Muttaqin 👋<br><br>👨‍💻 About Me<br>🎓 Esa Ungg
 ![](https://github-readme-stats.shion.dev/api?username=naufalhafizhmuttaqin&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=naufalhafizhmuttaqin&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=naufalhafizhmuttaqin&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=naufalhafizhmuttaqin&icon=0&color=0)](https://visitcount.itsvg.in)
