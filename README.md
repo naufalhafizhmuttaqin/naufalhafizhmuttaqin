@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Naufal Hafizh Muttaqin 👋<br><br>👨‍💻 About Me<br>🎓 Esa Unggul University / Infomatic Engineering<br>🔭 Currently learning: Data Science, Machine Learning, and Software Development<br>🌱 Currently exploring: Deep Learning, Backend Development<br>💬 Ask me about: Python, Data Analysis, Java, C++<br>📫 Reach me via LinkedIn or email
+Hi, I'm Naufal Hafizh Muttaqin 👋<br><br>👨‍💻 About Me<br>🎓 Esa Unggul University / Infomatic Engineering<br>🔭 Currently learning: Data Science, Machine Learning, and Software Development<br>🌱 Currently exploring: Deep Learning, Backend Development<br>💬 Ask me about: Python, Data Analysis, C++<br>📫 Reach me via LinkedIn or email
 
 
 ## 🌐 Socials:
